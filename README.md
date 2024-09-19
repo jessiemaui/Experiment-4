@@ -66,7 +66,7 @@ In this notebook, I'll guide you step by step through my thought process, breaki
 # Wrapping it all up!
 ## And here we have it! Our journey through Data Wrangling and Data Visualization has come to a successful close! We started with raw dataset, full of potential, and transforme it into something truly insightful and visually engaging output.
 
-## Through wrangling, we cleaned and explored the data, making it ready for deeper analysis. Then, we bought that data to life with stunning visuals that not only tell a story but also spark curiosity and understanding.
+### Through wrangling, we cleaned and explored the data, making it ready for deeper analysis. Then, we bought that data to life with stunning visuals that not only tell a story but also spark curiosity and understanding.
 
 I hope this experiment gave you a glimpse of how powerful Python can be when it comes to working data. 
 
